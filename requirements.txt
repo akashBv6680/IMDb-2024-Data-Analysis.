@@ -1,0 +1,8 @@
+pandas
+mysql-connector-python
+streamlit
+matplotlib
+seaborn
+# Add other libraries if your scraping script uses them (e.g., Selenium)
+# selenium
+# webdriver_manager
